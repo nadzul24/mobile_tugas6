@@ -1,18 +1,18 @@
 ## jobsheet06 - Database SQlite
 
 
-#1. Halaman Home
+ 
 
-![alt text](https://github.com/nadzul24/mobile_tugas6/blob/main/capture_01.jpeg)
+![alt text](https://github.com/nadzul24/mobile_tugas6/blob/main/capture_01.jpeg "Halaman Home")
 
-#2. Tambah Item
-![alt text](https://github.com/nadzul24/mobile_tugas6/blob/main/capture_02.jpeg)
+ 
+![alt text](https://github.com/nadzul24/mobile_tugas6/blob/main/capture_02.jpeg "Tambah Item")
 
-#3. Isi (Tambah Item)
-![alt text](https://github.com/nadzul24/mobile_tugas6/blob/main/capture_03.jpeg)
+ 
+![alt text](https://github.com/nadzul24/mobile_tugas6/blob/main/capture_03.jpeg "Isi (Tambah Item)")
 
-#4. Daftar Item
-![alt text](https://github.com/nadzul24/mobile_tugas6/blob/main/capture_04.jpeg)
+ 
+![alt text](https://github.com/nadzul24/mobile_tugas6/blob/main/capture_04.jpeg "Daftar Item")
 
 ## Getting Started
 
